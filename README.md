@@ -8,7 +8,7 @@
 
 ### Founder @ Plain · Product Engineering
 
-Building products, systems and the infrastructure behind them.
+Building products, systems and the infrastructure behind them..
 
 <br/>
 
