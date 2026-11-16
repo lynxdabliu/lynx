@@ -1,4 +1,4 @@
-<div align="center">
+<div align="centerrr">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,0,0" />
 
